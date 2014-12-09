@@ -1,0 +1,1 @@
+main('trecvidmed11', '100000', 'densetrajectory.mbh.Soft-4000-VL2.trecvidmed11.devel.kcb.deepcaffe_1.000.l2.summax', '', 4000, 'echi2', 0, 4)
